@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 💬 Ask me about **HTTPS, CSS, JAVA, PY**
+- 💬 Ask me about **HTTPS, CSS, JAVA, PY, AI/ML**
 
 - 📫 How to reach me **ashishkumar1932005@gmail.com**
 
